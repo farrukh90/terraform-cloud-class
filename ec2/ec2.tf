@@ -44,7 +44,7 @@ resource "aws_instance" "web3" {
   tags = {
     Name = "NewOne"
   }
-
+}
 
 
 
